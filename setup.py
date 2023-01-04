@@ -3,8 +3,8 @@ import setuptools
 setuptools.setup(
 	name='omletarcade',
 	version='1.0',
-	author='thekip007',
-	author_email='kirillpoddubnyj390@gmail.com',
+	author='thekip07',
+	author_email='thekip077@gmail.com',
 	description='using omAPI',
 	packages=['omletarcade'],
 	classifiers=[
