@@ -44,7 +44,7 @@ class Public:
 
         self.avatar = json_load["result"]
 
-    def get_level(self, user, stime=None):
+    def get_level(self, stime=None):
 
         if (stime == None):
             pass
@@ -68,7 +68,7 @@ class Public:
 
         self.hotness = json_load["result"]
 
-    def is_live(self, user, stime=None):
+    def is_live(self, stime=None):
 
         if (stime == None):
             pass
